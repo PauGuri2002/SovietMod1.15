@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:bread"
+    },
+    {
+      "tag": "sovietmod:grasses"
+    },
+    {
+      "item": "minecraft:sweet_berries"
+    },
+    {
+      "item": "minecraft:potion"
+    },
+    {
+      "item": "minecraft:honey_block"
+    }
+  ],
+  "result":
+  {
+    "item": "sovietmod:kvass",
+    "count": 1
+  }
+}

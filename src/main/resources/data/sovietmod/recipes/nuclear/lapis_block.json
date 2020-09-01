@@ -1,0 +1,9 @@
+{
+    "type": "sovietmod:nuclear",
+    "output": {
+        "item": "minecraft:lapis_block"
+    },
+    "input": {
+        "item": "minecraft:lapis_ore"
+    }
+}

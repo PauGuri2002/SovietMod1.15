@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "facing=north,lit=false":  { "model": "sovietmod:block/nuclear_furnace" },
+    "facing=east,lit=false":   { "model": "sovietmod:block/nuclear_furnace", "y": 90 },
+    "facing=south,lit=false":   { "model": "sovietmod:block/nuclear_furnace", "y": 180 },
+    "facing=west,lit=false":   { "model": "sovietmod:block/nuclear_furnace", "y": 270 },
+
+    "facing=north,lit=true":  { "model": "sovietmod:block/lit_nuclear_furnace" },
+    "facing=east,lit=true":   { "model": "sovietmod:block/lit_nuclear_furnace", "y": 90 },
+    "facing=south,lit=true":   { "model": "sovietmod:block/lit_nuclear_furnace", "y": 180 },
+    "facing=west,lit=true":   { "model": "sovietmod:block/lit_nuclear_furnace", "y": 270 }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "   ",
+    "xxx",
+    "xsx"
+  ],
+  "key":
+  {
+    "x":
+    {
+      "tag": "minecraft:planks"
+    },
+    "s":
+    {
+      "item": "sovietmod:sovietite"
+    }
+  },
+  "result":
+  {
+    "item": "sovietmod:matrioshka",
+    "count": 1
+  }
+}

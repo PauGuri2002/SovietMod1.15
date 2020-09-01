@@ -1,0 +1,71 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "sovietmod:blocks/matrioshka_s",
+		"particle": "sovietmod:blocks/matrioshka_s"
+	},
+	"elements": [
+		{
+			"from": [6, 0, 6],
+			"to": [10, 4, 10],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 3, 8]},
+			"faces": {
+				"north": {"uv": [4, 0, 8, 4], "texture": "#0"},
+				"east": {"uv": [0, 0, 4, 4], "texture": "#0"},
+				"south": {"uv": [0, 4, 4, 8], "texture": "#0"},
+				"west": {"uv": [4, 4, 8, 8], "texture": "#0"},
+				"up": {"uv": [4, 12, 0, 8], "rotation": 90, "texture": "#0"},
+				"down": {"uv": [8, 8, 4, 12], "rotation": 270, "texture": "#0"}
+			}
+		},
+		{
+			"from": [7, 3, 7],
+			"to": [9, 5, 9],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 3, 8]},
+			"faces": {
+				"north": {"uv": [8, 4, 10, 6], "texture": "#0"},
+				"east": {"uv": [8, 8, 10, 10], "texture": "#0"},
+				"south": {"uv": [8, 0, 10, 2], "texture": "#0"},
+				"west": {"uv": [8, 2, 10, 4], "texture": "#0"},
+				"up": {"uv": [10, 8, 8, 6], "rotation": 90, "texture": "#0"},
+				"down": {"uv": [10, 10, 8, 12], "rotation": 270, "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [40, 0, 0],
+			"translation": [0, 3.25, 3.5],
+			"scale": [0.8, 0.8, 0.8]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [40, 0, 0],
+			"translation": [0, 3.25, 3.5],
+			"scale": [0.8, 0.8, 0.8]
+		},
+		"firstperson_righthand": {
+			"translation": [0, 5, 0],
+			"scale": [0.8, 0.8, 0.8]
+		},
+		"firstperson_lefthand": {
+			"translation": [0, 5, 0],
+			"scale": [0.8, 0.8, 0.8]
+		},
+		"ground": {
+			"translation": [0, 3.25, 0],
+			"scale": [0.8, 0.8, 0.8]
+		},
+		"gui": {
+			"rotation": [30, 160, 0],
+			"translation": [0, 3.75, 0],
+			"scale": [1.2, 1.2, 1.2]
+		},
+		"head": {
+			"translation": [0, 14.5, 0]
+		},
+		"fixed": {
+			"translation": [0, 4.25, 0],
+			"scale": [1.2, 1.2, 1.2]
+		}
+	}
+}

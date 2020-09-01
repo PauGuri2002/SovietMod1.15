@@ -1,0 +1,9 @@
+{
+    "type": "sovietmod:nuclear",
+    "output": {
+        "item": "minecraft:emerald_block"
+    },
+    "input": {
+        "item": "minecraft:emerald_ore"
+    }
+}

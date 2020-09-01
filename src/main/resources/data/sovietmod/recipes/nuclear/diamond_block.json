@@ -1,0 +1,9 @@
+{
+    "type": "sovietmod:nuclear",
+    "output": {
+        "item": "minecraft:diamond_block"
+    },
+    "input": {
+        "item": "minecraft:diamond_ore"
+    }
+}

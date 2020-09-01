@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:sugar"
+    },
+    {
+      "tag": "sovietmod:grasses"
+    },
+    {
+      "tag": "sovietmod:mushroom_blocks"
+    },
+    {
+      "item": "minecraft:potion"
+    }
+  ],
+  "result":
+  {
+    "item": "sovietmod:kombucha",
+    "count": 1
+  }
+}

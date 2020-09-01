@@ -1,0 +1,9 @@
+{
+    "type": "sovietmod:nuclear",
+    "output": {
+        "item": "sovietmod:stalinium_block"
+    },
+    "input": {
+        "item": "sovietmod:stalinium_ore"
+    }
+}

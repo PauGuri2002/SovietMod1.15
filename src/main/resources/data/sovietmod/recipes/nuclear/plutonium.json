@@ -1,0 +1,9 @@
+{
+    "type": "sovietmod:nuclear",
+    "output": {
+        "item": "sovietmod:plutonium"
+    },
+    "input": {
+        "item": "sovietmod:uranium"
+    }
+}

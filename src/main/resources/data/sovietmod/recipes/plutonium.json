@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "sovietmod:uranium"
+  },
+  "result": "sovietmod:plutonium",
+  "experience": 10.0,
+  "cookingtime": 400
+}

@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    " x ",
+    "xux",
+    " x "
+  ],
+  "key":
+  {
+    "x":
+    {
+      "item": "sovietmod:stalinium"
+    },
+    "u":
+    {
+      "item": "minecraft:slime_ball"
+    }
+  },
+  "result":
+  {
+    "item": "sovietmod:sovietite",
+    "count": 4
+  }
+}

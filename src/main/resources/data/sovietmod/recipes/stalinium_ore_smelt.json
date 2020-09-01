@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "sovietmod:stalinium_ore"
+  },
+  "result": "sovietmod:stalinium",
+  "experience": 5.0,
+  "cookingtime": 200
+}

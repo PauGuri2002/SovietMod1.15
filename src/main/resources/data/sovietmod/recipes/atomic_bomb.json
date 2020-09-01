@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "ioi",
+    "iui",
+    "ioi"
+  ],
+  "key":
+  {
+    "i":
+    {
+      "item": "minecraft:iron_block"
+    },
+    "o":
+    {
+      "item": "minecraft:obsidian"
+    },
+    "u":
+    {
+      "item": "sovietmod:plutonium"
+    }
+  },
+  "result":
+  {
+    "item": "sovietmod:atomic_bomb",
+    "count": 1
+  }
+}

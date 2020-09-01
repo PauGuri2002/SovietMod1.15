@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "sovietmod:cabbage_food"
+    },
+    {
+      "item": "minecraft:carrot"
+    },
+    {
+      "tag": "sovietmod:grasses"
+    },
+    {
+      "item": "minecraft:cooked_chicken"
+    },
+    {
+      "item": "minecraft:baked_potato"
+    },
+    {
+      "item": "sovietmod:mega_bowl"
+    }
+  ],
+  "result":
+  {
+    "item": "sovietmod:mega_shchi",
+    "count": 1
+  }
+}

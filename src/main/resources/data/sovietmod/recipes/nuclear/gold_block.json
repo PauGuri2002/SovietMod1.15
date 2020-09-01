@@ -1,0 +1,9 @@
+{
+    "type": "sovietmod:nuclear",
+    "output": {
+        "item": "minecraft:gold_block"
+    },
+    "input": {
+        "item": "minecraft:gold_ore"
+    }
+}

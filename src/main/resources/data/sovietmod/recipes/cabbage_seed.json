@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "sovietmod:cabbage_food"
+    }
+  ],
+  "result":
+  {
+    "item": "sovietmod:cabbage_seed",
+    "count": 4
+  }
+}

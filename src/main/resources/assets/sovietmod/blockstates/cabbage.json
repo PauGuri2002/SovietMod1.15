@@ -1,0 +1,12 @@
+{
+  "variants": {
+    "age=0": { "model": "sovietmod:block/cabbage0" },
+    "age=1": { "model": "sovietmod:block/cabbage1" },
+    "age=2": { "model": "sovietmod:block/cabbage2" },
+    "age=3": { "model": "sovietmod:block/cabbage3" },
+    "age=4": { "model": "sovietmod:block/cabbage4" },
+    "age=5": { "model": "sovietmod:block/cabbage5" },
+    "age=6": { "model": "sovietmod:block/cabbage6" },
+    "age=7": { "model": "sovietmod:block/cabbage7" }
+  }
+}

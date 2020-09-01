@@ -1,0 +1,9 @@
+{
+    "type": "sovietmod:nuclear",
+    "output": {
+        "item": "minecraft:quartz_block"
+    },
+    "input": {
+        "item": "minecraft:nether_quartz_ore"
+    }
+}

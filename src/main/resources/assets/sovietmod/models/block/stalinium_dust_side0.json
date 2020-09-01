@@ -1,0 +1,6 @@
+{
+    "parent": "sovietmod:block/stalinium_dust_side",
+    "textures": {
+        "line": "sovietmod:block/stalinium_dust_line0"
+    }
+}

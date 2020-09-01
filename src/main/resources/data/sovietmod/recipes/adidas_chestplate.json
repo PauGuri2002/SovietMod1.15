@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "sovietmod:sovietite"
+    },
+    {
+      "item": "minecraft:leather_chestplate"
+    }
+  ],
+  "result":
+  {
+    "item": "sovietmod:adidas_chestplate",
+    "count": 1
+  }
+}

@@ -1,0 +1,9 @@
+{
+    "type": "sovietmod:nuclear",
+    "output": {
+        "item": "minecraft:redstone_block"
+    },
+    "input": {
+        "item": "minecraft:redstone_ore"
+    }
+}

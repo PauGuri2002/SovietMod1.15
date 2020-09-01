@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "sovietmod:clay_mega_bowl"
+  },
+  "result": "sovietmod:mega_bowl",
+  "experience": 0.5,
+  "cookingtime": 200
+}

@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "iii",
+    "iui",
+    "iii"
+  ],
+  "key":
+  {
+    "i":
+    {
+      "item": "minecraft:iron_block"
+    },
+    "u":
+    {
+      "item": "sovietmod:atomic_bomb"
+    }
+  },
+  "result":
+  {
+    "item": "sovietmod:atomic_underwater_mine",
+    "count": 1
+  }
+}

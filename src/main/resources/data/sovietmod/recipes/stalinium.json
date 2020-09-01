@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "sovietmod:stalinium_block"
+    }
+  ],
+  "result":
+  {
+    "item": "sovietmod:stalinium",
+    "count": 9
+  }
+}

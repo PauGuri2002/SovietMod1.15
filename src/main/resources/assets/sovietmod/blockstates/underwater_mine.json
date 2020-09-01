@@ -1,0 +1,6 @@
+{
+  "variants": {
+    "armed=false":  { "model": "sovietmod:block/underwater_mine" },
+    "armed=true":   { "model": "sovietmod:block/armed_underwater_mine" }
+  }
+}

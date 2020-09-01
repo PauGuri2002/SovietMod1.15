@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "sovietmod:sovietite"
+    },
+    {
+      "item": "minecraft:leather_leggings"
+    }
+  ],
+  "result":
+  {
+    "item": "sovietmod:adidas_leggings",
+    "count": 1
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "sovietmod:sovietite"
+    },
+    {
+      "item": "minecraft:milk_bucket"
+    }
+  ],
+  "result":
+  {
+    "item": "sovietmod:cheese",
+    "count": 8
+  }
+}

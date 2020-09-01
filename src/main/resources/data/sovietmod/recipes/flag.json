@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "sovietmod:sovietite"
+    },
+    {
+      "item": "minecraft:red_banner"
+    }
+  ],
+  "result":
+  {
+    "item": "sovietmod:flag",
+    "count": 1
+  }
+}

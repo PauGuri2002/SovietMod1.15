@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:wheat_seeds"
+    },
+    {
+      "item": "sovietmod:sovietite"
+    }
+  ],
+  "result":
+  {
+    "item": "sovietmod:cabbage_seed",
+    "count": 3
+  }
+}

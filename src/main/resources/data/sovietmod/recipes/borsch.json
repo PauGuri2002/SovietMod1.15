@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:carrot"
+    },
+    {
+      "tag": "sovietmod:grasses"
+    },
+    {
+      "item": "minecraft:beetroot"
+    },
+    {
+      "item": "minecraft:baked_potato"
+    },
+    {
+      "item": "minecraft:bowl"
+    }
+  ],
+  "result":
+  {
+    "item": "sovietmod:borsch",
+    "count": 1
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "sovietmod:block/flag" },
+    "facing=south": { "model": "sovietmod:block/flag", "y":  180},
+    "facing=west": { "model": "sovietmod:block/flag", "y":  270},
+    "facing=east": { "model": "sovietmod:block/flag", "y":  90}
+  }
+}

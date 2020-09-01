@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "  w",
+    " v ",
+    "   "
+  ],
+  "key":
+  {
+    "w":
+    {
+      "tag": "minecraft:wool"
+    },
+    "v":
+    {
+      "item": "sovietmod:vodka"
+    }
+  },
+  "result":
+  {
+    "item": "sovietmod:molotov_cocktail",
+    "count": 1
+  }
+}

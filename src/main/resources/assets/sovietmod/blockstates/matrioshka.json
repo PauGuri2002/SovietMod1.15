@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "sovietmod:block/matrioshka" },
+    "facing=south": { "model": "sovietmod:block/matrioshka", "y":  180},
+    "facing=west": { "model": "sovietmod:block/matrioshka", "y":  270},
+    "facing=east": { "model": "sovietmod:block/matrioshka", "y":  90}
+  }
+}

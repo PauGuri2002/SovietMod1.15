@@ -1,0 +1,202 @@
+{
+  "disc.anthem": {
+    "category": "disc",
+    "subtitle": "anthem",
+    "sounds": [
+      {
+        "name": "sovietmod:disc/anthem",
+        "stream": true
+      }
+    ]
+  },
+  "disc.anthemear": {
+    "category": "disc",
+    "subtitle": "anthemear",
+    "sounds": [
+      {
+        "name": "sovietmod:disc/anthemear",
+        "stream": true
+      }
+    ]
+  },
+  "disc.14minutes": {
+    "category": "disc",
+    "subtitle": "14minutes",
+    "sounds": [
+      {
+        "name": "sovietmod:disc/14minutes",
+        "stream": true
+      }
+    ]
+  },
+  "disc.coconut": {
+    "category": "disc",
+    "subtitle": "coconut",
+    "sounds": [
+      {
+        "name": "sovietmod:disc/coconut",
+        "stream": true
+      }
+    ]
+  },
+  "disc.denise": {
+    "category": "disc",
+    "subtitle": "denise",
+    "sounds": [
+      {
+        "name": "sovietmod:disc/denise",
+        "stream": true
+      }
+    ]
+  },
+  "disc.aviamarch": {
+    "category": "disc",
+    "subtitle": "aviamarch",
+    "sounds": [
+      {
+        "name": "sovietmod:disc/aviamarch",
+        "stream": true
+      }
+    ]
+  },
+  "disc.britannia": {
+    "category": "disc",
+    "subtitle": "britannia",
+    "sounds": [
+      {
+        "name": "sovietmod:disc/britannia",
+        "stream": true
+      }
+    ]
+  },
+  "disc.katyusha": {
+    "category": "disc",
+    "subtitle": "katyusha",
+    "sounds": [
+      {
+        "name": "sovietmod:disc/katyusha",
+        "stream": true
+      }
+    ]
+  },
+  "disc.korobeiniki": {
+    "category": "disc",
+    "subtitle": "korobeiniki",
+    "sounds": [
+      {
+        "name": "sovietmod:disc/korobeiniki",
+        "stream": true
+      }
+    ]
+  },
+  "disc.kalinka": {
+    "category": "disc",
+    "subtitle": "kalinka",
+    "sounds": [
+      {
+        "name": "sovietmod:disc/kalinka",
+        "stream": true
+      }
+    ]
+  },
+  "disc.hungarian": {
+    "category": "disc",
+    "subtitle": "hungarian",
+    "sounds": [
+      {
+        "name": "sovietmod:disc/hungarian",
+        "stream": true
+      }
+    ]
+  },
+  "disc.hardbass": {
+    "category": "disc",
+    "subtitle": "hardbass",
+    "sounds": [
+      {
+        "name": "sovietmod:disc/hardbass",
+        "stream": true
+      }
+    ]
+  },
+  "disc.moskau": {
+    "category": "disc",
+    "subtitle": "moskau",
+    "sounds": [
+      {
+        "name": "sovietmod:disc/moskau",
+        "stream": true
+      }
+    ]
+  },
+  "disc.party": {
+    "category": "disc",
+    "subtitle": "party",
+    "sounds": [
+      {
+        "name": "sovietmod:disc/party",
+        "stream": true
+      }
+    ]
+  },
+  "disc.pinetons": {
+    "category": "disc",
+    "subtitle": "pinetons",
+    "sounds": [
+      {
+        "name": "sovietmod:disc/pinetons",
+        "stream": true
+      }
+    ]
+  },
+  "disc.rasputin": {
+    "category": "disc",
+    "subtitle": "rasputin",
+    "sounds": [
+      {
+        "name": "sovietmod:disc/rasputin",
+        "stream": true
+      }
+    ]
+  },
+  "disc.nevergonna": {
+    "category": "disc",
+    "subtitle": "nevergonna",
+    "sounds": [
+      {
+        "name": "sovietmod:disc/nevergonna",
+        "stream": true
+      }
+    ]
+  },
+  "disc.nuke": {
+    "category": "disc",
+    "subtitle": "nuke",
+    "sounds": [
+      {
+        "name": "sovietmod:disc/nuke",
+        "stream": true
+      }
+    ]
+  },
+  "disc.thomas": {
+    "category": "disc",
+    "subtitle": "thomas",
+    "sounds": [
+      {
+        "name": "sovietmod:disc/thomas",
+        "stream": true
+      }
+    ]
+  },
+  "disc.segadors": {
+    "category": "disc",
+    "subtitle": "segadors",
+    "sounds": [
+      {
+        "name": "sovietmod:disc/segadors",
+        "stream": true
+      }
+    ]
+  }
+}

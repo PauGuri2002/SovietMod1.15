@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "xxx",
+    "xux",
+    "xxx"
+  ],
+  "key":
+  {
+    "x":
+    {
+      "item": "sovietmod:sovietite"
+    },
+    "u":
+    {
+      "tag": "minecraft:music_discs"
+    }
+  },
+  "result":
+  {
+    "item": "sovietmod:music_disc_anthemear",
+    "count": 1
+  }
+}

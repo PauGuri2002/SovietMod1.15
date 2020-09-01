@@ -1,0 +1,9 @@
+{
+    "type": "sovietmod:nuclear",
+    "output": {
+        "item": "minecraft:coal_block"
+    },
+    "input": {
+        "item": "minecraft:coal_ore"
+    }
+}

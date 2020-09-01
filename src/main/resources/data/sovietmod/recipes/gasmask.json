@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "ccc",
+    "gcg",
+    "cwc"
+  ],
+  "key":
+  {
+    "c":
+    {
+      "item": "minecraft:rabbit_hide"
+    },
+    "g":
+    {
+      "item": "minecraft:glass_pane"
+    },
+    "w":
+    {
+      "tag": "minecraft:wool"
+    }
+  },
+  "result":
+  {
+    "item": "sovietmod:gasmask",
+    "count": 1
+  }
+}

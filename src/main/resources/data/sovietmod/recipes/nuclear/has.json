@@ -1,0 +1,9 @@
+{
+    "type": "sovietmod:nuclear",
+    "output": {
+        "item": "sovietmod:sovietite"
+    },
+    "input": {
+        "item": "sovietmod:hammer_and_sickle"
+    }
+}
