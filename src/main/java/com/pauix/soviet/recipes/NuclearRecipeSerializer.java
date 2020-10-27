@@ -28,9 +28,9 @@ public class NuclearRecipeSerializer extends ForgeRegistryEntry<IRecipeSerialize
 
     @Override
     public void write(PacketBuffer buffer, NuclearRecipe recipe) {
+        buffer.writeItemStack(recipe.getRecipeOutput(), false);
+
         Ingredient input = recipe.getIngredients().get(0);
         input.write(buffer);
-
-        buffer.writeItemStack(recipe.getRecipeOutput(), false);
     }
 }

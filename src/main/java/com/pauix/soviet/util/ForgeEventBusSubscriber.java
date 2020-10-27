@@ -16,6 +16,6 @@ public class ForgeEventBusSubscriber {
         if(DimensionType.byName(SovietMod.SIBERIA_DIM_TYPE) == null) {
             DimensionManager.registerDimension(SovietMod.SIBERIA_DIM_TYPE, ModDimensions.SIBERIA.get(), null, true);
         }
-        SovietMod.LOGGER.info("Custom dimensions have been registered");
+        SovietMod.LOGGER.info("Siberia Dimension Loaded");
     }
 }
